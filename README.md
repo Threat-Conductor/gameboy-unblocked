@@ -1,1 +1,1 @@
-gameboy emulatr by Grant Galitz updated by me
+gameboy emulator by Grant Galitz updated by me
